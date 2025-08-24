@@ -41,3 +41,8 @@ pytest - v
 
 Python 3.8+
 No external dependencies are required.
+
+
+
+# Note: You can change the regex in `analyzer.py` to suit your log format.
+
