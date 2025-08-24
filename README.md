@@ -24,11 +24,12 @@ python log_analyzer.py
 ```
 
 ## Project Structure
+```
 log-analyzer/
 │── log_analyzer.py    # Main script
 │── app.log            # Sample log file
 │── test_log_analyzer.py # Unit tests
-
+```
 
 
 Running Tests
